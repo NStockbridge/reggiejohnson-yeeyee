@@ -18,4 +18,5 @@ public interface Person {
     
     void workOnWords();
     
+    void goFishing();
 }
