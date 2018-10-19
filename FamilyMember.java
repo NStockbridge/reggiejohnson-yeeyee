@@ -46,4 +46,8 @@ public class FamilyMember implements Person {
         System.out.println("Stares long and hard at words. Tries hard.");
     }
     
+    @Override
+    public void goFishing() {
+        System.out.println("Casts line and waits.");
+    }
 }
